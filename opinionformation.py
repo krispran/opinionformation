@@ -11,7 +11,7 @@ A = np.matrix([ [1  ,0  ,0 ],   # [a11, a12, a13]
                 [0.3,0.4,0.4]]) # [a31, a32, a33]
 
 # Number of iterations of the model
-nIter = 5
+nIter = 10
 
 # Iteration variable
 x = []
